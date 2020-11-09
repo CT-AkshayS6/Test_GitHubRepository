@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
         <div>
             <p>Hello this is Index page.</p>
+            <p>New changes added for testing purpose.</p>
         </div>
     </form>
 </body>
